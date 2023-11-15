@@ -22,91 +22,91 @@ A mobile application for ear training. Its functionalities include exercises pre
 
 ## Themes
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(25).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(20).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(25).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(20).png" height="600" />
 </p>
 
 ## Musical exercises
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(1).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(3).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(1).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(3).png" height="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(4).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(5).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(4).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(5).png" height="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(6).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(6).png" height="600" />
 </p>
 
 ## Challenges
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(2).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(2).png" height="600" />
 </p>
 
 ## Producer exercises
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(26).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(7).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(26).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(7).png" height="600" />
 </p>
 
 ## File management
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(9).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(9).png" height="600" />
 </p>
 
 ## Starting the game
 ### (Local files | Streaming)
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(8).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(12).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(8).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(12).png" height="600" />
 </p>
 
 ## Equalization
 ### (Local files | Streaming)
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(10).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(13).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(10).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(13).png" height="600" />
 </p>
 
 ## Gain
 ### (Local files | Streaming)
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(15).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(14).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(15).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(14).png" height="600" />
 </p>
 
 ## Panning
 ### (Local files | Streaming)
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(18).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(16).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(18).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(16).png" height="600" />
 </p>
 
 ## Quiz 
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/b55497aee95a75382f640721a95dd89a43c7d854/images/nutone%20(33).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(22).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(33).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(22).png" height="600" />
 </p>
 
 ## Articles
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(28).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(29).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(28).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(29).png" height="600" />
 </p>
 
 ## Settings
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(19).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(19).png" height="600" />
 </p>
 
 ## Stats
 <p align="center">
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(24).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(30).png" height="600" />
-  <img src="https://github.com/jarekkopaczewski/NuToneAbout/blob/38ddd65e246d54e079483ac2d739ced8d83e3d7f/images/nutone%20(31).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(24).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(30).png" height="600" />
+  <img src="https://github.com/riffyapp/RiffyAbout/blob/main/images/nutone%20(31).png" height="600" />
 </p>
 
 ## Technologies and tools
