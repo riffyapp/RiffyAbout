@@ -1,7 +1,7 @@
-# The NuTone Privacy Policy
+# The Riffy Privacy Policy
 ## Privacy Policy
 
-*Last updated: September 17, 2023*
+*Last updated: November 15, 2023*
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the app and tells You about Your privacy rights and how the law protects You.
 
@@ -11,4 +11,4 @@ We do not store or send any of your personal information in the application. The
 ## Contact
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: nu.tone.help@gmail.com
+By email: riffy.help@gmail.com
